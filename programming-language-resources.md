@@ -128,3 +128,9 @@ Make sure you have at least the following operations down pat:
 10. (Bonus) Switch statements
 11. (Bonus) Built-in language sorting. Quickly defining a comparator to sort an array.
 12. (More advanced candidates) The 5 standard bit manipulation operations (L/R shifts, not, or, and, xor)
+
+
+**Good Resource: Grokking the Coding Interview: Patterns for Coding Questions Alternative**
+
+Github Repo -> https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions
+Website -> https://dvpr.gitbook.io/coding-interview-patterns
